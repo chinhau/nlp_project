@@ -11,7 +11,7 @@ This project can be divided into 2 parts:
 2. Explore Feature Hashing (Fine-Tuning across different number of features) 
    Apply n = 25,000 : Monogram, Bigram, Trigram
    
-![alt_text](https://github.com/chinhau/nlp_project/result_1.png)   
+![result_1](result_1.png)   
 
 
 

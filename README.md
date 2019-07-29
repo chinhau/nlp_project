@@ -15,7 +15,8 @@ This project can be divided into 2 parts:
       B. Logistic Regression performs the best among all the algorithms (has 3/4 categories)
       C. In-terms of Techniques : TF-IDF > Word Count > Occurrence of Words > Feature Hashing (Part 2) > Term-Frequency
       D. Best Accuracy : TF-IDF (Logistic Regression) managed to achieve a validation accuracy of ~ 87.64%
-   ![result_1](result_1.png) 
+   
+![result_1](result_1.png) 
    
 2. Explore Feature Hashing (Fine-Tuning across different number of features) 
    Apply n = 25,000 : Monogram, Bigram, Trigram

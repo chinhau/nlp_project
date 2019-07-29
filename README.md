@@ -1,6 +1,21 @@
 # NLP Project
 
-This project is an attempt to explore and compare some of the basic NLP technique by using the IMDB reviews dataset.
+This project uses the IMDB movies review dataset to explore and compare the performance of different NLP techniques and algorithms.
+
+This project can be divided into 2 parts: 
+
+1. Focus SOLELY on Monogram by exploring a couple of different techniques: 
+   - Occurrence of Words, Word Count, Term Frequency, Term Frequency-Inverse Document Frequency (TF-IDF)
+   - Logistic Regression, Gaussian Naive Bayes, Bernoulli Naive Bayes, Multinomial Naive Bayes, Decision Tree, XG Boost
+   
+2. Explore Feature Hashing (Fine-Tuning across different number of features) 
+   Apply n = 25,000 : Monogram, Bigram, Trigram
+   
+![alt_text](https://github.com/chinhau/nlp_project/result_1.png)   
+
+
+
+
 
 Link: https://ai.stanford.edu/~amaas/data/sentiment/
 

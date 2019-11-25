@@ -1,4 +1,4 @@
-# NLP Project
+# IMDB Movies Review
 
 ### This project uses the IMDB movies review dataset to explore and compare the performance of different NLP techniques and algorithms.
 <br>

@@ -1,6 +1,6 @@
-# IMDB Movies Review
+# IMDB Movies Reviews - Performance Comparison
 
-### This project uses the IMDB movies review dataset to explore and compare the performance of different NLP techniques and algorithms.
+### This project uses the IMDB movies review dataset to explore and compare the performance of different NLP techniques and ML algorithms.
 <br>
 
 This project can be divided into 2 parts: 
